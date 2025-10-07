@@ -23,8 +23,7 @@
 ├── T1_Main.py          # 程序入口（运行 GUI）
 ├── T1_tests.py         # 命令行交互式测试脚本（课堂演示）
 ├── README.md           # 本文档
-├── requirements.txt     # 可选依赖说明
-└── results/             # (运行后自动生成) 输出结果、截图、CSV 文件等
+└── requirements.txt     # 可选依赖说明
 ```
 
 ---
@@ -195,4 +194,5 @@ python3 T1_tests.py
 # 导出碰撞分析结果
 # （GUI 中点击 “导出碰撞结果为 CSV”）
 ```
+
 
