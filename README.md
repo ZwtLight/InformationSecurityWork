@@ -46,7 +46,7 @@ pip install PyQt5 matplotlib
 
 ##  快速运行说明
 
-### ▶️ 方式一：启动图形界面
+### ▶️ 启动图形界面
 
 ```bash
 python3 T1_Main.py
@@ -159,6 +159,7 @@ python3 T1_tests.py
 # 导出碰撞分析结果
 # （GUI 中点击 “导出碰撞结果为 CSV”）
 ```
+
 
 
 
