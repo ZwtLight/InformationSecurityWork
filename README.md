@@ -22,8 +22,8 @@
 ├── T1_GUI.py           # 图形界面（集成第1~5关）
 ├── T1_Main.py          # 程序入口（运行 GUI）
 ├── T1_tests.py         # 命令行交互式测试脚本（课堂演示）
-├── README.md           # 本文档
-└── requirements.txt     # 可选依赖说明
+├── The_testing_results.docx           # 实验结果
+└── README.md           # 本文档
 ```
 
 ---
@@ -194,5 +194,6 @@ python3 T1_tests.py
 # 导出碰撞分析结果
 # （GUI 中点击 “导出碰撞结果为 CSV”）
 ```
+
 
 
